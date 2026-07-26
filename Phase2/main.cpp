@@ -10,12 +10,11 @@ int main()
     std::cout << "====== DoomFolder ======\n\n";
 
     std::string folder;
-
     std::cout << "Enter folder path: ";
     std::getline(std::cin, folder);
 
     Scanner scanner;
-    scanner.scanFolder(folder);
+    scanner.scan(folder);   
 
     return 0;
 }
