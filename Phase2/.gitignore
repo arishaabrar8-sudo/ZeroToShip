@@ -1,0 +1,19 @@
+# Compiled executable
+app
+
+# Object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+
+# VS Code settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Linux backup files
+*~v
