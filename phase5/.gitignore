@@ -1,0 +1,52 @@
+# ===========================
+# Compiled Executables
+# ===========================
+DoomFolder
+app
+*.exe
+*.out
+
+# ===========================
+# Object Files
+# ===========================
+*.o
+*.obj
+
+# ===========================
+# Static & Dynamic Libraries
+# ===========================
+*.a
+*.so
+*.dll
+*.lib
+
+# ===========================
+# Build Directories
+# ===========================
+build/
+bin/
+
+# ===========================
+# CMake Files (if used)
+# ===========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# ===========================
+# VS Code
+# ===========================
+.vscode/
+
+# ===========================
+# Operating System Files
+# ===========================
+.DS_Store
+Thumbs.db
+
+# ===========================
+# Temporary Files
+# ===========================
+*.log
+*.tmp
